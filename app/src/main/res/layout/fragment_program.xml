@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:text="@string/petrov_alexander"
+            android:text="@string/my_name"
             android:textColor="#000000"
             android:textSize="24sp" />
 
@@ -69,7 +69,7 @@
             android:autoLink="web"
             android:inputType="textMultiLine"
             android:linksClickable="true"
-            android:text="@string/https_github_com_wintezz"
+            android:text="@string/git_hub"
             android:textColor="@color/black"
             android:textSize="24sp"
             tools:ignore="TextViewEdits" />
@@ -96,7 +96,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:text="@string/_21_06_2022"
+            android:text="@string/data"
             android:textColor="@color/black"
             android:textSize="24sp" />
 

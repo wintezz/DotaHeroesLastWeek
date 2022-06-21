@@ -10,11 +10,11 @@
     <string name="basic_mana">Basic mana</string>
     <string name="hero">Heroes</string>
     <string name="program">Program</string>
-    <string name="petrov_alexander">Petrov Alexander</string>
+    <string name="my_name">Petrov Alexander</string>
     <string name="github">GitHub</string>
-    <string name="_21_06_2022">21.06.2022</string>
+    <string name="data">21.06.2022</string>
     <string name="date_of_creation">Date of creation</string>
     <string name="author">Author</string>
-    <string name="https_github_com_wintezz">https://github.com/wintezz</string>
+    <string name="git_hub">https://github.com/wintezz/DotaHeroesLastWeek</string>
     <string name="about_application">About Application</string>
 </resources>
